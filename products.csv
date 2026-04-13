@@ -1,0 +1,13 @@
+product_id,category,product_name,unit_cost,unit_price
+P001,Electronics,Laptop,282.34,424.39
+P002,Electronics,Smartphone,316.57,431.8
+P003,Electronics,Tablet,373.64,478.73
+P004,Electronics,Headphones,594.51,933.18
+P005,Office Supplies,Printer Paper,190.05,260.02
+P006,Office Supplies,Ink Cartridge,499.55,732.43
+P007,Office Supplies,Desk Lamp,429.61,579.93
+P008,Office Supplies,Office Chair,492.21,681.31
+P009,Home & Living,Blender,409.18,691.49
+P010,Home & Living,Vacuum,356.47,569.77
+P011,Home & Living,Air Fryer,439.31,678.3
+P012,Home & Living,Coffee Maker,30.59,43.97
