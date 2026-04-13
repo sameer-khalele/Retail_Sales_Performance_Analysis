@@ -1,0 +1,351 @@
+customer_id,customer_name,segment,region,city,join_date
+C0001,Yousef Farah,Consumer,North,Amman,2023-10-09
+C0002,Lina Saad,Consumer,North,Zarqa,2024-07-12
+C0003,Yousef Haddad,Home Office,North,Amman,2023-08-12
+C0004,Leen Saad,Consumer,South,Tafilah,2024-10-27
+C0005,Omar Saleh,Home Office,West,Jerash,2023-10-12
+C0006,Maya Farah,Corporate,West,Madaba,2023-10-12
+C0007,Lina Mansour,Corporate,North,Amman,2024-01-25
+C0008,Leen Nasser,Corporate,East,Mafraq,2024-04-15
+C0009,Sami Mansour,Home Office,North,Zarqa,2023-10-28
+C0010,Omar Farah,Corporate,South,Tafilah,2023-03-13
+C0011,Noor Issa,Corporate,North,Amman,2023-04-14
+C0012,Khaled Farah,Home Office,East,Mafraq,2024-01-15
+C0013,Lina Saleh,Home Office,East,Azraq,2024-11-30
+C0014,Noor Issa,Home Office,South,Aqaba,2024-04-18
+C0015,Omar Farah,Consumer,South,Tafilah,2023-11-29
+C0016,Lina Farah,Home Office,East,Sahab,2023-10-02
+C0017,Ahmad Saad,Home Office,East,Mafraq,2024-11-02
+C0018,Maya Farah,Home Office,West,Salt,2023-09-29
+C0019,Noor Saad,Corporate,East,Azraq,2024-08-21
+C0020,Ahmad Nasser,Consumer,South,Aqaba,2024-06-05
+C0021,Maya Saad,Home Office,North,Amman,2024-10-04
+C0022,Sami Darwish,Home Office,North,Irbid,2024-01-26
+C0023,Lina Issa,Home Office,East,Azraq,2023-01-12
+C0024,Noor Saleh,Corporate,East,Mafraq,2023-10-28
+C0025,Leen Saleh,Home Office,North,Zarqa,2023-09-27
+C0026,Leen Farah,Consumer,North,Zarqa,2023-11-02
+C0027,Leen Haddad,Home Office,East,Mafraq,2024-07-06
+C0028,Lina Mansour,Corporate,East,Sahab,2023-01-20
+C0029,Sami Nasser,Consumer,South,Aqaba,2023-09-04
+C0030,Maya Saleh,Home Office,West,Salt,2024-06-29
+C0031,Rana Saad,Consumer,West,Jerash,2023-06-19
+C0032,Noor Mansour,Corporate,South,Tafilah,2023-11-16
+C0033,Yousef Nasser,Corporate,West,Salt,2023-09-11
+C0034,Yousef Farah,Consumer,North,Zarqa,2024-07-21
+C0035,Omar Farah,Consumer,North,Zarqa,2024-10-08
+C0036,Leen Farah,Corporate,North,Irbid,2023-03-14
+C0037,Maya Darwish,Consumer,West,Salt,2024-07-06
+C0038,Lina Nasser,Home Office,West,Madaba,2023-07-14
+C0039,Noor Darwish,Home Office,West,Madaba,2024-03-09
+C0040,Lina Haddad,Corporate,North,Zarqa,2024-10-31
+C0041,Yousef Farah,Home Office,East,Mafraq,2023-09-12
+C0042,Maya Issa,Corporate,West,Salt,2024-03-08
+C0043,Leen Nasser,Consumer,South,Aqaba,2024-03-29
+C0044,Maya Saad,Corporate,North,Amman,2023-08-31
+C0045,Omar Saleh,Corporate,West,Salt,2024-02-15
+C0046,Ahmad Issa,Corporate,North,Irbid,2023-09-29
+C0047,Rana Farah,Consumer,West,Salt,2023-07-14
+C0048,Omar Haddad,Home Office,North,Zarqa,2023-11-18
+C0049,Maya Haddad,Home Office,West,Jerash,2024-06-27
+C0050,Sami Nasser,Home Office,North,Amman,2023-03-12
+C0051,Sami Farah,Home Office,South,Karak,2023-05-03
+C0052,Noor Mansour,Corporate,North,Zarqa,2023-03-25
+C0053,Yousef Issa,Corporate,South,Tafilah,2023-11-18
+C0054,Rana Darwish,Corporate,South,Tafilah,2024-10-22
+C0055,Sami Nasser,Consumer,North,Amman,2024-04-14
+C0056,Maya Mansour,Consumer,South,Tafilah,2023-09-29
+C0057,Maya Darwish,Home Office,South,Karak,2023-10-19
+C0058,Leen Haddad,Home Office,East,Azraq,2024-10-31
+C0059,Maya Issa,Consumer,East,Azraq,2023-04-17
+C0060,Maya Issa,Corporate,North,Zarqa,2024-07-20
+C0061,Yousef Issa,Home Office,South,Tafilah,2023-12-18
+C0062,Lina Saad,Corporate,West,Madaba,2023-02-22
+C0063,Maya Issa,Consumer,North,Amman,2023-12-08
+C0064,Noor Haddad,Consumer,West,Jerash,2024-12-23
+C0065,Leen Haddad,Corporate,North,Zarqa,2023-06-02
+C0066,Omar Issa,Corporate,South,Karak,2023-05-11
+C0067,Yousef Nasser,Corporate,North,Irbid,2023-08-04
+C0068,Yousef Saleh,Consumer,West,Jerash,2023-06-08
+C0069,Khaled Saad,Home Office,West,Salt,2023-07-03
+C0070,Lina Saad,Consumer,South,Karak,2023-06-13
+C0071,Ahmad Mansour,Corporate,West,Salt,2023-07-24
+C0072,Yousef Saad,Corporate,South,Aqaba,2023-01-25
+C0073,Khaled Saad,Home Office,East,Mafraq,2023-10-13
+C0074,Rana Saleh,Home Office,East,Mafraq,2023-04-29
+C0075,Sami Saad,Corporate,East,Mafraq,2023-04-22
+C0076,Leen Nasser,Corporate,East,Sahab,2024-09-12
+C0077,Noor Haddad,Home Office,South,Karak,2023-02-15
+C0078,Lina Mansour,Home Office,South,Karak,2024-03-17
+C0079,Rana Issa,Home Office,East,Azraq,2023-05-08
+C0080,Rana Saleh,Consumer,West,Madaba,2024-02-17
+C0081,Maya Issa,Corporate,West,Jerash,2024-01-24
+C0082,Yousef Saad,Home Office,North,Irbid,2023-10-21
+C0083,Ahmad Farah,Home Office,East,Sahab,2024-03-28
+C0084,Lina Issa,Home Office,West,Jerash,2023-06-23
+C0085,Rana Farah,Consumer,East,Mafraq,2023-08-29
+C0086,Yousef Darwish,Home Office,South,Aqaba,2023-02-17
+C0087,Sami Farah,Home Office,North,Irbid,2024-02-29
+C0088,Yousef Saleh,Home Office,West,Madaba,2024-02-14
+C0089,Yousef Saleh,Home Office,North,Amman,2024-03-11
+C0090,Yousef Nasser,Corporate,West,Salt,2024-07-24
+C0091,Leen Mansour,Corporate,South,Karak,2024-11-14
+C0092,Maya Darwish,Corporate,West,Jerash,2024-04-01
+C0093,Rana Darwish,Home Office,East,Mafraq,2024-10-14
+C0094,Lina Issa,Consumer,South,Karak,2024-03-26
+C0095,Leen Nasser,Consumer,East,Sahab,2023-11-24
+C0096,Maya Farah,Consumer,South,Aqaba,2024-01-28
+C0097,Leen Darwish,Corporate,West,Madaba,2023-12-05
+C0098,Noor Haddad,Home Office,North,Amman,2024-03-06
+C0099,Khaled Issa,Corporate,West,Madaba,2023-01-07
+C0100,Sami Farah,Corporate,West,Jerash,2024-07-13
+C0101,Ahmad Haddad,Corporate,South,Karak,2024-03-22
+C0102,Noor Saleh,Corporate,East,Azraq,2024-11-26
+C0103,Omar Saad,Home Office,South,Tafilah,2024-06-30
+C0104,Noor Saleh,Corporate,North,Amman,2024-10-20
+C0105,Noor Mansour,Consumer,South,Aqaba,2023-09-24
+C0106,Noor Issa,Corporate,West,Madaba,2023-12-12
+C0107,Omar Haddad,Corporate,East,Mafraq,2024-04-26
+C0108,Omar Haddad,Consumer,South,Tafilah,2023-03-12
+C0109,Maya Farah,Consumer,South,Aqaba,2024-09-28
+C0110,Sami Farah,Corporate,West,Jerash,2023-04-28
+C0111,Sami Nasser,Consumer,East,Sahab,2023-06-21
+C0112,Omar Issa,Home Office,East,Mafraq,2024-08-15
+C0113,Lina Farah,Consumer,West,Madaba,2023-07-23
+C0114,Lina Haddad,Corporate,East,Azraq,2024-09-06
+C0115,Lina Mansour,Consumer,West,Jerash,2024-01-15
+C0116,Noor Mansour,Home Office,West,Madaba,2023-04-19
+C0117,Noor Saleh,Home Office,West,Jerash,2023-06-06
+C0118,Ahmad Darwish,Corporate,East,Azraq,2024-07-05
+C0119,Lina Issa,Corporate,East,Sahab,2023-09-09
+C0120,Sami Saad,Corporate,South,Karak,2024-08-06
+C0121,Maya Darwish,Consumer,North,Irbid,2023-11-29
+C0122,Rana Issa,Home Office,East,Sahab,2023-12-15
+C0123,Lina Farah,Home Office,North,Zarqa,2023-07-15
+C0124,Yousef Darwish,Home Office,West,Madaba,2024-07-22
+C0125,Lina Issa,Consumer,West,Madaba,2023-01-18
+C0126,Rana Mansour,Corporate,West,Jerash,2023-09-07
+C0127,Khaled Mansour,Home Office,East,Sahab,2024-07-17
+C0128,Rana Farah,Consumer,West,Madaba,2023-11-10
+C0129,Leen Saleh,Consumer,South,Karak,2023-05-03
+C0130,Rana Issa,Consumer,South,Tafilah,2024-05-10
+C0131,Khaled Saleh,Corporate,South,Karak,2023-08-21
+C0132,Maya Issa,Consumer,North,Zarqa,2024-06-30
+C0133,Maya Darwish,Consumer,North,Zarqa,2023-10-27
+C0134,Ahmad Darwish,Corporate,North,Zarqa,2023-10-19
+C0135,Rana Darwish,Consumer,East,Mafraq,2023-02-22
+C0136,Lina Haddad,Consumer,North,Irbid,2024-05-18
+C0137,Lina Farah,Consumer,South,Tafilah,2023-11-08
+C0138,Sami Farah,Home Office,West,Jerash,2024-09-02
+C0139,Rana Saad,Corporate,West,Madaba,2024-03-29
+C0140,Yousef Farah,Corporate,North,Zarqa,2023-04-12
+C0141,Maya Nasser,Consumer,North,Amman,2023-09-03
+C0142,Sami Darwish,Corporate,North,Irbid,2024-04-06
+C0143,Rana Darwish,Consumer,North,Amman,2023-10-23
+C0144,Sami Farah,Corporate,South,Karak,2024-10-02
+C0145,Maya Issa,Consumer,North,Zarqa,2023-08-19
+C0146,Rana Issa,Corporate,North,Amman,2023-06-19
+C0147,Rana Saad,Corporate,North,Irbid,2024-12-06
+C0148,Sami Haddad,Corporate,West,Madaba,2023-03-24
+C0149,Omar Nasser,Consumer,East,Azraq,2023-09-14
+C0150,Sami Haddad,Consumer,North,Zarqa,2023-10-03
+C0151,Ahmad Issa,Consumer,West,Jerash,2024-10-29
+C0152,Lina Darwish,Corporate,West,Jerash,2024-05-18
+C0153,Lina Saleh,Corporate,West,Madaba,2023-11-25
+C0154,Rana Saad,Home Office,West,Jerash,2024-05-22
+C0155,Khaled Issa,Corporate,North,Irbid,2023-04-01
+C0156,Omar Darwish,Corporate,North,Irbid,2024-06-10
+C0157,Khaled Darwish,Home Office,North,Amman,2024-06-14
+C0158,Rana Saleh,Corporate,West,Salt,2023-07-28
+C0159,Lina Haddad,Home Office,West,Jerash,2024-05-11
+C0160,Rana Haddad,Home Office,South,Tafilah,2023-06-12
+C0161,Lina Darwish,Consumer,West,Salt,2023-08-19
+C0162,Leen Issa,Corporate,South,Karak,2023-10-26
+C0163,Ahmad Saleh,Corporate,West,Madaba,2023-09-07
+C0164,Maya Nasser,Corporate,South,Tafilah,2024-06-04
+C0165,Rana Haddad,Corporate,West,Madaba,2024-06-03
+C0166,Ahmad Saleh,Corporate,East,Azraq,2024-08-16
+C0167,Leen Saad,Corporate,West,Madaba,2023-12-07
+C0168,Yousef Saad,Consumer,East,Mafraq,2024-12-15
+C0169,Ahmad Saad,Corporate,West,Salt,2023-11-22
+C0170,Maya Mansour,Consumer,South,Karak,2023-02-07
+C0171,Ahmad Haddad,Home Office,West,Salt,2024-06-22
+C0172,Maya Nasser,Corporate,South,Karak,2024-11-01
+C0173,Noor Nasser,Corporate,East,Sahab,2024-09-30
+C0174,Ahmad Haddad,Home Office,West,Madaba,2024-10-03
+C0175,Rana Farah,Home Office,North,Amman,2024-10-08
+C0176,Lina Darwish,Consumer,North,Irbid,2023-04-11
+C0177,Khaled Haddad,Corporate,East,Mafraq,2023-02-17
+C0178,Maya Farah,Home Office,East,Sahab,2024-03-17
+C0179,Maya Saleh,Consumer,West,Jerash,2024-11-29
+C0180,Sami Farah,Corporate,North,Zarqa,2024-01-27
+C0181,Rana Darwish,Corporate,South,Aqaba,2024-04-17
+C0182,Leen Saleh,Consumer,North,Irbid,2023-10-22
+C0183,Rana Saad,Home Office,West,Madaba,2024-08-24
+C0184,Yousef Saad,Corporate,East,Sahab,2023-11-06
+C0185,Sami Mansour,Home Office,North,Amman,2024-01-26
+C0186,Omar Saad,Corporate,East,Azraq,2023-10-30
+C0187,Omar Darwish,Corporate,North,Zarqa,2024-12-03
+C0188,Yousef Farah,Home Office,South,Tafilah,2023-12-27
+C0189,Maya Nasser,Home Office,East,Azraq,2024-11-06
+C0190,Omar Mansour,Home Office,North,Irbid,2024-03-27
+C0191,Khaled Saad,Consumer,South,Aqaba,2023-10-30
+C0192,Khaled Issa,Consumer,South,Aqaba,2024-07-06
+C0193,Khaled Nasser,Corporate,East,Sahab,2023-10-30
+C0194,Noor Mansour,Consumer,North,Amman,2023-08-20
+C0195,Leen Nasser,Corporate,West,Salt,2023-09-28
+C0196,Rana Saad,Home Office,East,Azraq,2024-11-19
+C0197,Yousef Darwish,Consumer,East,Mafraq,2024-11-22
+C0198,Lina Darwish,Home Office,East,Azraq,2023-08-15
+C0199,Lina Saleh,Consumer,East,Azraq,2024-02-23
+C0200,Lina Nasser,Consumer,North,Irbid,2024-05-19
+C0201,Khaled Saad,Home Office,South,Karak,2024-04-09
+C0202,Lina Darwish,Home Office,South,Karak,2024-11-01
+C0203,Khaled Farah,Corporate,West,Madaba,2023-02-03
+C0204,Lina Mansour,Home Office,West,Salt,2024-01-07
+C0205,Rana Farah,Consumer,East,Mafraq,2024-02-12
+C0206,Yousef Haddad,Consumer,West,Salt,2024-11-09
+C0207,Sami Farah,Consumer,East,Mafraq,2023-05-09
+C0208,Yousef Mansour,Consumer,South,Tafilah,2023-08-10
+C0209,Maya Issa,Consumer,North,Irbid,2023-05-29
+C0210,Maya Haddad,Corporate,North,Zarqa,2023-01-27
+C0211,Omar Saleh,Corporate,South,Tafilah,2023-11-28
+C0212,Leen Nasser,Home Office,North,Amman,2024-03-07
+C0213,Khaled Nasser,Corporate,North,Irbid,2024-04-04
+C0214,Leen Issa,Corporate,South,Tafilah,2023-02-14
+C0215,Noor Saad,Home Office,North,Amman,2024-05-05
+C0216,Ahmad Nasser,Consumer,North,Irbid,2024-12-30
+C0217,Lina Saleh,Corporate,East,Azraq,2023-06-01
+C0218,Leen Issa,Corporate,East,Sahab,2024-09-03
+C0219,Lina Farah,Corporate,West,Salt,2024-12-19
+C0220,Khaled Darwish,Corporate,West,Salt,2024-02-28
+C0221,Khaled Saad,Corporate,West,Jerash,2023-04-08
+C0222,Ahmad Nasser,Consumer,East,Sahab,2023-06-06
+C0223,Lina Mansour,Consumer,North,Amman,2024-03-18
+C0224,Leen Mansour,Home Office,North,Zarqa,2024-07-29
+C0225,Noor Haddad,Corporate,North,Irbid,2023-12-29
+C0226,Sami Farah,Consumer,East,Sahab,2023-04-17
+C0227,Khaled Mansour,Consumer,West,Salt,2023-04-21
+C0228,Noor Haddad,Home Office,East,Azraq,2023-08-20
+C0229,Rana Issa,Corporate,East,Mafraq,2023-07-04
+C0230,Maya Saad,Consumer,East,Mafraq,2023-07-05
+C0231,Omar Nasser,Home Office,South,Tafilah,2024-10-10
+C0232,Ahmad Mansour,Consumer,South,Karak,2024-03-05
+C0233,Sami Nasser,Consumer,East,Sahab,2023-11-29
+C0234,Omar Nasser,Corporate,South,Aqaba,2024-09-24
+C0235,Ahmad Darwish,Corporate,West,Jerash,2024-03-10
+C0236,Lina Mansour,Corporate,East,Mafraq,2024-06-08
+C0237,Sami Darwish,Home Office,North,Irbid,2024-11-25
+C0238,Noor Haddad,Consumer,East,Mafraq,2023-08-14
+C0239,Maya Issa,Corporate,South,Karak,2023-08-05
+C0240,Ahmad Saad,Consumer,East,Mafraq,2023-01-08
+C0241,Yousef Mansour,Consumer,South,Karak,2024-06-29
+C0242,Noor Haddad,Corporate,West,Jerash,2023-02-13
+C0243,Noor Saad,Home Office,North,Irbid,2024-08-12
+C0244,Noor Haddad,Corporate,West,Madaba,2023-04-28
+C0245,Khaled Nasser,Corporate,South,Tafilah,2024-04-16
+C0246,Sami Saad,Home Office,North,Amman,2024-03-22
+C0247,Khaled Farah,Corporate,North,Irbid,2023-11-14
+C0248,Lina Farah,Corporate,South,Aqaba,2024-06-06
+C0249,Maya Farah,Consumer,East,Azraq,2024-10-22
+C0250,Maya Saleh,Home Office,South,Karak,2023-07-22
+C0251,Ahmad Darwish,Home Office,North,Amman,2024-10-05
+C0252,Sami Mansour,Home Office,West,Jerash,2024-08-01
+C0253,Lina Darwish,Corporate,East,Mafraq,2024-03-26
+C0254,Omar Mansour,Home Office,East,Sahab,2024-08-28
+C0255,Ahmad Haddad,Consumer,North,Irbid,2024-04-17
+C0256,Lina Saad,Corporate,East,Sahab,2023-03-20
+C0257,Yousef Mansour,Home Office,North,Irbid,2024-08-08
+C0258,Omar Darwish,Consumer,West,Jerash,2023-06-04
+C0259,Leen Saleh,Consumer,East,Azraq,2023-03-28
+C0260,Ahmad Saleh,Corporate,South,Tafilah,2024-03-24
+C0261,Noor Mansour,Home Office,East,Sahab,2024-02-01
+C0262,Khaled Nasser,Corporate,North,Zarqa,2024-10-24
+C0263,Noor Issa,Corporate,North,Zarqa,2024-11-25
+C0264,Sami Saleh,Corporate,South,Karak,2023-03-25
+C0265,Noor Saleh,Home Office,East,Azraq,2024-12-16
+C0266,Noor Mansour,Consumer,North,Irbid,2024-07-26
+C0267,Noor Mansour,Consumer,North,Zarqa,2024-11-17
+C0268,Yousef Mansour,Corporate,East,Sahab,2023-07-04
+C0269,Maya Nasser,Corporate,South,Aqaba,2023-05-21
+C0270,Leen Haddad,Home Office,North,Zarqa,2024-07-06
+C0271,Sami Saad,Consumer,East,Azraq,2023-05-15
+C0272,Sami Saleh,Home Office,South,Aqaba,2024-12-10
+C0273,Khaled Farah,Corporate,West,Salt,2024-02-25
+C0274,Yousef Farah,Corporate,East,Azraq,2024-04-04
+C0275,Sami Darwish,Corporate,West,Salt,2024-01-12
+C0276,Leen Saad,Consumer,East,Sahab,2024-05-29
+C0277,Rana Haddad,Home Office,South,Tafilah,2023-05-22
+C0278,Lina Nasser,Corporate,West,Madaba,2024-07-21
+C0279,Ahmad Saleh,Corporate,North,Amman,2023-10-07
+C0280,Khaled Haddad,Corporate,North,Amman,2024-04-06
+C0281,Khaled Farah,Corporate,North,Irbid,2024-05-29
+C0282,Omar Mansour,Consumer,North,Irbid,2023-08-18
+C0283,Omar Issa,Corporate,East,Mafraq,2023-05-21
+C0284,Ahmad Haddad,Consumer,South,Tafilah,2024-04-25
+C0285,Maya Saad,Consumer,North,Irbid,2023-08-09
+C0286,Lina Haddad,Consumer,East,Mafraq,2023-11-05
+C0287,Ahmad Nasser,Consumer,West,Jerash,2024-09-29
+C0288,Omar Farah,Home Office,West,Jerash,2024-07-02
+C0289,Omar Mansour,Consumer,South,Karak,2024-03-15
+C0290,Lina Mansour,Consumer,West,Salt,2024-11-11
+C0291,Omar Saad,Corporate,North,Irbid,2024-04-26
+C0292,Khaled Nasser,Corporate,East,Azraq,2023-01-17
+C0293,Lina Mansour,Consumer,South,Tafilah,2024-11-03
+C0294,Khaled Saleh,Home Office,North,Irbid,2024-07-13
+C0295,Maya Saleh,Consumer,West,Jerash,2024-05-05
+C0296,Yousef Haddad,Consumer,West,Salt,2023-10-28
+C0297,Leen Saad,Home Office,North,Irbid,2023-11-14
+C0298,Yousef Issa,Corporate,West,Madaba,2023-02-07
+C0299,Rana Nasser,Corporate,North,Zarqa,2023-12-06
+C0300,Noor Mansour,Consumer,West,Madaba,2024-03-26
+C0301,Khaled Issa,Consumer,West,Jerash,2024-05-24
+C0302,Sami Saleh,Home Office,West,Salt,2024-03-16
+C0303,Lina Mansour,Home Office,East,Sahab,2023-04-16
+C0304,Sami Saad,Consumer,East,Sahab,2024-04-01
+C0305,Omar Mansour,Home Office,West,Madaba,2024-04-02
+C0306,Omar Nasser,Home Office,West,Madaba,2024-10-16
+C0307,Maya Haddad,Consumer,West,Madaba,2024-06-09
+C0308,Lina Farah,Home Office,West,Salt,2023-05-10
+C0309,Sami Haddad,Home Office,East,Sahab,2024-01-28
+C0310,Khaled Mansour,Corporate,South,Tafilah,2024-04-05
+C0311,Leen Mansour,Corporate,North,Zarqa,2023-05-21
+C0312,Yousef Nasser,Consumer,East,Azraq,2023-10-13
+C0313,Noor Nasser,Corporate,South,Karak,2024-06-14
+C0314,Yousef Issa,Home Office,East,Azraq,2024-04-01
+C0315,Maya Nasser,Corporate,West,Salt,2023-05-06
+C0316,Lina Mansour,Home Office,South,Tafilah,2024-03-31
+C0317,Leen Issa,Corporate,East,Azraq,2023-03-08
+C0318,Maya Mansour,Home Office,South,Tafilah,2024-12-27
+C0319,Maya Farah,Corporate,South,Aqaba,2023-07-25
+C0320,Sami Mansour,Corporate,North,Irbid,2024-07-21
+C0321,Lina Issa,Corporate,South,Tafilah,2023-03-30
+C0322,Noor Nasser,Consumer,West,Jerash,2024-02-25
+C0323,Ahmad Darwish,Home Office,East,Azraq,2023-03-17
+C0324,Sami Saleh,Consumer,East,Mafraq,2024-07-18
+C0325,Lina Saleh,Corporate,West,Jerash,2023-02-26
+C0326,Yousef Mansour,Home Office,South,Aqaba,2023-11-27
+C0327,Yousef Issa,Consumer,East,Mafraq,2023-09-14
+C0328,Lina Saleh,Home Office,East,Azraq,2024-06-30
+C0329,Sami Mansour,Home Office,South,Aqaba,2024-11-05
+C0330,Omar Issa,Home Office,North,Amman,2023-03-25
+C0331,Sami Haddad,Corporate,South,Tafilah,2024-03-02
+C0332,Ahmad Farah,Home Office,East,Azraq,2023-11-06
+C0333,Lina Haddad,Consumer,West,Madaba,2024-04-09
+C0334,Ahmad Farah,Corporate,West,Madaba,2024-05-10
+C0335,Khaled Saad,Consumer,South,Karak,2023-11-23
+C0336,Lina Mansour,Consumer,East,Azraq,2024-07-29
+C0337,Ahmad Farah,Consumer,West,Salt,2023-10-01
+C0338,Noor Saad,Consumer,North,Amman,2023-10-25
+C0339,Khaled Farah,Consumer,South,Karak,2024-08-14
+C0340,Ahmad Issa,Corporate,West,Jerash,2024-04-23
+C0341,Leen Darwish,Consumer,North,Amman,2024-02-07
+C0342,Omar Haddad,Corporate,South,Tafilah,2023-12-28
+C0343,Ahmad Issa,Home Office,West,Jerash,2024-10-31
+C0344,Maya Issa,Home Office,North,Amman,2024-03-17
+C0345,Omar Saad,Consumer,East,Sahab,2024-01-10
+C0346,Rana Nasser,Corporate,South,Karak,2024-07-20
+C0347,Sami Nasser,Consumer,West,Jerash,2023-10-14
+C0348,Khaled Mansour,Consumer,North,Irbid,2024-01-18
+C0349,Noor Haddad,Consumer,South,Tafilah,2024-06-05
+C0350,Khaled Darwish,Home Office,North,Amman,2024-12-31
